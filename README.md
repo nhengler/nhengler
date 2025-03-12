@@ -6,6 +6,5 @@
 
 ## 📊 Minhas tecnologias mais utilizadas
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nhengler&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhengler&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhengler&layout=compact&langs_count=6&theme=tokyonight)
 
